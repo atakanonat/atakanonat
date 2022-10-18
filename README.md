@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [My Django blog app](https://github.com/atakanonat/django-blog-app)
+- 🔭 I’m currently working at [Vitelco IT Services](http://www.vitelco.com.tr/)
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **atakanonat628@gmail.com**
 
